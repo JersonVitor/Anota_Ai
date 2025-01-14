@@ -1,4 +1,4 @@
-# Nome do Aplicativo
+# Anota Aí
 
 ![Plataforma](https://img.shields.io/badge/Plataforma-Android%20-blue)
 ![Linguagem](https://img.shields.io/badge/Linguagem-Kotlin%20-purple)
