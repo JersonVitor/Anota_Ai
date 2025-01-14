@@ -5,7 +5,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Jetpack%20Compose%20-orange)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
-"Um aplicativo para fazer anotações,como um bloco de notas, projetado para auxiliar com armazenamento de informações textuais e de suporte a edição para facilitar a usabilidade do aplicativo."
+"Um aplicativo para fazer anotações, como um bloco de notas, projetado para auxiliar com armazenamento de informações textuais e de suporte a edição para facilitar a usabilidade do aplicativo."
 
 ## 📱 Funcionalidades
 
