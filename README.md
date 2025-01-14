@@ -1,7 +1,8 @@
 # Nome do Aplicativo
 
-![Plataforma](https://img.shields.io/badge/Plataforma-Android%20|%20iOS-blue)
-![Linguagem](https://img.shields.io/badge/Linguagem-Kotlin%20|%20Java%20|%20Swift-orange)
+![Plataforma](https://img.shields.io/badge/Plataforma-Android%20-blue)
+![Linguagem](https://img.shields.io/badge/Linguagem-Kotlin%20-purple)
+![Framework](https://img.shields.io/badge/Framework-Jetpack%20Compose%20-orange)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
 "Um aplicativo para fazer anotações,como um bloco de notas, projetado para auxiliar com armazenamento de informações textuais e de suporte a edição para facilitar a usabilidade do aplicativo."
