@@ -8,10 +8,10 @@
 
 ## 📱 Funcionalidades
 
-- [x] **Funcionalidade 1**: Breve descrição da funcionalidade.
-- [x] **Funcionalidade 2**: Breve descrição da funcionalidade.
-- [x] **Funcionalidade 3**: Breve descrição da funcionalidade.
-- [x] **Funcionalidade N**: Breve descrição da funcionalidade.
+- [x] **Adicionar Notas**: Adicionar novas notas, podendo colocar cores, título e descrição .
+- [x] **Editar Notas**: Poder editar notas recém adicionadas.
+- [x] **Apagar Notas**: Apagar uma ou um conjunto de notas.
+- [x] **Mudar visibilidade**: Alternar a visibilidade entre Grid e Lista.
 
 ## 🔧 Tecnologias Utilizadas
 
@@ -42,7 +42,16 @@
 ├── 📁 app/
 │   ├── 📁 src/
 │   │   ├── 📁 main/
-│   │   │   ├── 📁 java/com           # Código-fonte em Java ou Kotlin
+│   │   │   ├── 📁 java/com/jerson/anotaai/
+│   │   │   |   ├── 📁 data              # Acesso ao Banco de Dados
+│   │   │   |   ├── 📁 domain/           # Intermediário entre data e presentation
+│   │   │   |   |   ├── 📁 model         # Modelos de representação do Banco de Dados
+│   │   │   |   |   ├── 📁 repository    # Regra de Negócioss
+│   │   │   |   |   ├── 📁 use_cases     # Casos de usos   
+│   │   │   |   ├── 📁 presentation      # Parte de visualização
+│   │   │   |   |   ├── 📁 navGraph      # Modelos de representação do Banco de Dados
+│   │   │   |   |   ├── 📁 screens       # Telas com suas respetivas ViewModels, States e Events
+│   │   │   |   ├── 📁 di                # Módulos de injeção
 │   │   │   ├── 📁 res/            # Arquivos de recursos (layouts, strings, drawables, etc.)
 │   │   │   ├── AndroidManifest.xml  # Configurações do aplicativo
 ├── 📁 build/                      # Arquivos gerados durante a build
@@ -53,26 +62,26 @@
 Contribuições são sempre bem-vindas! Siga os passos abaixo para contribuir:
 
 Faça um fork do projeto.
-Crie uma branch para sua feature:
 
+1. Crie uma branch para sua feature:
 ```bash
 git checkout -b minha-feature
 ````
-Faça commit das suas mudanças:
+2. Faça commit das suas mudanças:
 ```bash
 git commit -m "Adicionei minha feature"
 ````
-Faça push para a branch:
+3. Faça push para a branch:
 ```bash
 git push origin minha-feature
 ````
-Abra um Pull Request no repositório original.
+4. Abra um Pull Request no repositório original.
+
 ##📝 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ##📬 Contato
 Se tiver dúvidas, entre em contato:
-
-Email: jersonvitor2016@gmail.com
-LinkedIn: www.linkedin.com/in/jerson-vitor-872384185
+- Email: jersonvitor2016@gmail.com
+- LinkedIn: www.linkedin.com/in/jerson-vitor-872384185
 
