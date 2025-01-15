@@ -23,9 +23,9 @@
 
 ### Pré-requisitos
 
-- [ ] Android Studio instalado
-- [ ] Emulador ou dispositivo físico configurado
-- [ ] [Outras dependências necessárias]
+- Android Studio instalado
+- Emulador ou dispositivo físico configurado
+- [Outras dependências necessárias]
 
 ### Passos
 
@@ -59,6 +59,11 @@
 ├── 📄 build.gradle                # Configurações do Gradle
 ├── 📄 settings.gradle             # Configuração do projeto Gradle
 ````
+
+
+## 📱 Telas do Aplicativo
+
+
 ##🤝 Contribuições
 Contribuições são sempre bem-vindas! Siga os passos abaixo para contribuir:
 
