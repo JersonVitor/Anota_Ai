@@ -33,8 +33,11 @@
    ```bash
    git clone https://github.com/usuario/nome-do-repositorio.git
 2. Abra o projeto no Android Studio.
+   
 3. Instale as dependências (se necessário).
+
 4. Execute o aplicativo no emulador ou dispositivo físico.
+ 
 
 ## 🗂️ Estrutura do Projeto
 
@@ -64,7 +67,20 @@
 ## 📱 Telas do Aplicativo
 
 
-##🤝 Contribuições
+<div style="display: block; justify-content: center; gap: 30px;">
+  <img src="ImgensDasTelas/ModoGrid.png" alt="Modo Grid na Tela inicial" width="200">
+  <img src="ImgensDasTelas/ModoLista.png" alt="Modo lista na Tela inicial" width="200">
+  <img src="ImgensDasTelas/ApagarNotas.png" alt="Modo Apagar Notas" width="200">
+</div>
+<div style="display: flex; justify-content: center; gap: 30px;">
+  <img src="ImgensDasTelas/AdicionarNota.png" alt="Tela Adicionar Nota" width="200">
+  <img src="ImgensDasTelas/ModoEdição.png" alt="Modo edição da Nota" width="200">
+  <img src="ImgensDasTelas/DetalhesDaNota.png" alt="Tela Detalhes Da Nota" width="200">
+</div>
+
+## 🤝 Contribuições
+
+
 Contribuições são sempre bem-vindas! Siga os passos abaixo para contribuir:
 
 Faça um fork do projeto.
@@ -83,10 +99,12 @@ git push origin minha-feature
 ````
 4. Abra um Pull Request no repositório original.
 
-##📝 Licença
+## 📝 Licença
+
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
-##📬 Contato
+## 📬 Contato
+
 Se tiver dúvidas, entre em contato:
 - Email: jersonvitor2016@gmail.com
 - LinkedIn: www.linkedin.com/in/jerson-vitor-872384185
